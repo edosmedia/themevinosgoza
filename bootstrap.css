@@ -352,11 +352,11 @@ footer .widget-area ul#menu-menu-1 {
     }
 }
 
-#producto {
+.producto {
   margin-bottom: 42px;
 }
 
-#producto h2::after {
+.producto h2::after {
   content: '';
   border-bottom: 2px solid #CD916D;
   width: 70%;
